@@ -32,8 +32,15 @@ Step 4: Create start and dev scripts Add the following scripts to your package.j
 
 **Step 5:** Set up environment variables Create a .env file in the root of your project and add the following variables:
 
-SK_API_KEY="" 
-ORG_ID="" 
+    PORT=5000
+    
+    https://beta.openai.com/account/api-keys
+    
+    OPENAI_API_KEY ="sk-xxxxxxxx"
+    
+    https://beta.openai.com/account/org-settings
+    
+    OPENAI_ORGANIZATION="org-xxxxxxxxx"
 
 Make sure to replace the values with your own API key and org id, which can be found at  [https://beta.openai.com/account/api-keys](https://beta.openai.com/account/api-keys)  and  [https://beta.openai.com/account/org-settings](https://beta.openai.com/account/org-settings)  respectively.
 
