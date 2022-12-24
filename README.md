@@ -1,11 +1,28 @@
 
 ## Getting Started Follow these instructions to get the Node.js server up and running on your local machine.
 
-**
+Node.js npm (comes with Node.js)
 
-Prerequisites Make sure you have the following installed on your machine:
+Git clone the project:
 
-Node.js npm (comes with Node.js) 
+```
+git clone https://github.com/sisoalbert/node-dalle2-api
+
+```
+
+Install dependencies. Run the following command to install the necessary dependencies:
+
+```
+npm install
+
+```
+
+Then follow  **step 5&6**    below.
+
+**Done 👏🏽**
+
+## The creation process: 
+
 
 **Step 1:** Initialize the project Run the following command in the terminal to initialize the project and create a package.json file:
 
